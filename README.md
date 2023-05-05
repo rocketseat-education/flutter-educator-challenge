@@ -17,3 +17,16 @@ Esta é uma aplicação simples sobre fatos de cães e gatos, cujo objetivo é t
   * **Observação**: a funcionalidade não precisa apresentar erros ou más práticas para que possa ser julgada como passível de alteração
 * Para cada solução, melhoria ou alternativa, deve-se explicar de maneira didática como o item se caracteriza como tal, assim como demonstrar o passo a passo do procedimento para solucionar, melhorar ou alterar. 
 * Não é necessário que a Pessoa Educadora desenvolva uma aplicação com as suas manipulações, bastam as explicações e os passos para cada item
+
+<!--START_SECTION:footer-->
+
+<br />
+<br />
+
+<p align="center">
+  <a href="https://discord.gg/rocketseat" target="_blank">
+    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
+  </a>
+</p>
+
+<!--END_SECTION:footer-->
